@@ -1,0 +1,18 @@
+h1, h3 {
+    color: rgb(71, 138, 140);
+    text-align: center;
+}
+
+h1 {
+    background-color: rgb(224, 224, 224);
+}
+
+p, ul, ol {
+    color: rgb(91, 91, 91);
+}
+
+img {
+    width: 25%;
+    height: auto;
+    margin-left: 38%;
+}
